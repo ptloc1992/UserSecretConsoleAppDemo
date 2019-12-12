@@ -1,5 +1,3 @@
-﻿# Markdown File
-
 Contents of the secrets.json file:
 ```
 {

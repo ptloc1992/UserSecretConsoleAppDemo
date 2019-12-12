@@ -45,6 +45,8 @@ To create your user secrets file for a project, open a PowerShell window and nav
 dotnet user-secrets init
 ```
 
+As an alternative, you can also right click on the project file and select 'Manage User Secrets', which will create the file for you as well.
+
 As part of creating the user secrets file, the user secrets id will be added to the project file of your console application:
 
 ```
